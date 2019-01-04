@@ -1819,6 +1819,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/make-your-office-happier-with-fruit-delivery.html</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/food-trends/great-food-should-not-cost-the-earth.html</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -12776,6 +12782,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/hannah-woods.html</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/deliveroo-for-business.html</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
