@@ -2191,6 +2191,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/restaurant-profiles/busy-mode.html</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/restaurant-profiles/gourmet-burger-kitchen.html</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
