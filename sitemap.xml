@@ -481,6 +481,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/restaurant-makeover-competition.html</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/free-coca-cola-zero-8-december-2017.html</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15086,6 +15092,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/page/28.html</loc>
+    <lastmod>2019-05-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/page/29.html</loc>
     <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
