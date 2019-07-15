@@ -1471,6 +1471,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/asahi-super-dry-beer-editions-giveaway-terms-and-conditions-2019.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/avios-uk-all-17.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6673,6 +6679,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/terms.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/deliveroo.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6680,12 +6692,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/editions.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/tag/terms.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -13285,13 +13291,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends.html</loc>
+    <loc>https://foodscene.deliveroo.co.uk/terms.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/terms.html</loc>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -13321,13 +13327,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon.html</loc>
+    <loc>https://foodscene.deliveroo.co.uk/deliveroo.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -13555,24 +13561,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/tag/deliveroo/page/2.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/tag/deliveroo/page/3.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/tag/deliveroo/page/4.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/terms/page/2.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13610,6 +13598,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/terms/page/8.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/deliveroo/page/2.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/deliveroo/page/3.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/deliveroo/page/4.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -15055,42 +15061,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/2.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/3.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/4.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/5.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/6.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/7.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/page/2.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15260,6 +15230,42 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/page/30.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/2.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/3.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/4.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/5.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/6.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/7.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -15697,36 +15703,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon/page/2.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon/page/3.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon/page/4.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon/page/5.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon/page/6.html</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.co.uk/deliveroo/page/2.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15800,6 +15776,36 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/deliveroo/page/14.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon/page/2.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon/page/3.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon/page/4.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon/page/5.html</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/natasha-graydon/page/6.html</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
