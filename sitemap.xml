@@ -1033,6 +1033,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/lewis-capaldi-competition.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/pepsi-5-pound-voucher-promotional-terms-and-conditions.html</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13634,6 +13640,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/terms/page/8.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/terms/page/9.html</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
