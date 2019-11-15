@@ -559,6 +559,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/wagamama-free-delivery.html</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/get-£5-off-your-next-two-orders-12-june-2017.html</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14725,6 +14731,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/archive/2019/page/14.html</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/archive/2018/page/2.html</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15500,6 +15512,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/page/32.html</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/page/33.html</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
