@@ -505,6 +505,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/editions-christmas-competition.html</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/order-and-get-£10-15-march-2017.html</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -16658,6 +16664,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/page/27/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/page/28/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
