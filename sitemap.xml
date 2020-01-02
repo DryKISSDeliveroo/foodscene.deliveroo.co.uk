@@ -451,6 +451,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/fa-cup-freebies-promotion.html</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/bloom-wild-partnership-13-march-2017.html</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13526,6 +13532,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/april-fools.html</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/archive/2020.html</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
