@@ -6985,6 +6985,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/health.html</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/deliveroo-for-business.html</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/terms.html</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7028,12 +7040,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/business.html</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/tag/deliveroo-for-business.html</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7190,12 +7196,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/rider-survey.html</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/tag/health.html</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -13603,6 +13603,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends.html</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms.html</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13621,12 +13627,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends.html</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.co.uk/cuisine-inspiration.html</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13639,6 +13639,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/deliveroo-for-business.html</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/deliveroo.html</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13646,12 +13652,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/natasha-graydon.html</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/deliveroo-for-business.html</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -15433,6 +15433,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/2.html</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/3.html</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/4.html</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/5.html</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/6.html</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/7.html</loc>
+    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/page/2.html</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15758,42 +15794,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/promotions/page/8.html</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/2.html</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/3.html</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/4.html</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/5.html</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/6.html</loc>
-    <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/7.html</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
