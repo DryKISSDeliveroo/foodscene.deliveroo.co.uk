@@ -91,6 +91,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/deliveroo-snt-social-promotion.html</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/mixology-cocacola-londoneye-deliveroo.html</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
