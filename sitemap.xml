@@ -613,6 +613,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/deliveroo-saturday-night-takeaway-free-delivery-for-30-days.html</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/goodwood-promotion-5june2017.html</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14012,6 +14018,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/terms/page/13.html</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/terms/page/14.html</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
