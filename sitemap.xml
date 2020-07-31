@@ -949,6 +949,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/costa-del-iveroo.html</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/costa-ruby-hot-chocolate.html</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -17240,6 +17246,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/page/32/</loc>
+    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/page/33/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
