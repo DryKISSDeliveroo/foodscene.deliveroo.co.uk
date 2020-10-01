@@ -4,4 +4,4 @@ Disallow: /search/
 Disallow: /tags/
 Allow: /
 
-Sitemap: https://foodscene.deliveroo.com.au/sitemap.xml
+Sitemap: https://foodscene.deliveroo.co.uk/sitemap.xml
