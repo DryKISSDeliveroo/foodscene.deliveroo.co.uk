@@ -937,12 +937,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/terms/manchester-free-delivery-groceries-promotional-terms-and-conditions.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/new-customer-free-delivery-promotion-14days-terms-and-conditions-2020.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7015,6 +7009,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/deliveroo-free-delivery-restaurants-manchester-2020.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/promotions/get-10-percent-off-when-dining-in-dadyal.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7154,6 +7154,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/promotions/tortilla-10-percent-off-dining-in-house.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/deliveroo-30-off-manchester-2020.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7531,6 +7537,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/promotion.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/restaurants.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7538,12 +7550,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/nux.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/tag/promotion.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -14167,6 +14173,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/restaurant-profiles.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14174,12 +14186,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/food-trends.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -14557,12 +14563,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/tag/restaurants/page/2.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/promotion/page/2.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14570,6 +14570,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/promotion/page/3.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/restaurants/page/2.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -16351,6 +16357,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/2.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/3.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/4.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/5.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/6.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/7.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/8.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/restaurant-profiles/page/2.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -16478,48 +16526,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/food-trends/page/8.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/2.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/3.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/4.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/5.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/6.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/7.html</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/8.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
