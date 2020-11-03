@@ -937,6 +937,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/manchester-free-delivery-groceries-promotional-terms-and-conditions.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/new-customer-free-delivery-promotion-14days-terms-and-conditions-2020.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7238,6 +7244,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/promotions/deliveroo-rider-insurance.html</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/deliveroo-free-delivery-groceries-manchester-2020.html</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
