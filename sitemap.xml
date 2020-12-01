@@ -865,6 +865,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/winner-winner-win-a-dinner-2020-restaurant-awards-deliveroo-competition-terms.html</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/five-gs-for-five-guys.html</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15560,6 +15566,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/archive/2019/page/14.html</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/archive/2019/page/15.html</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
