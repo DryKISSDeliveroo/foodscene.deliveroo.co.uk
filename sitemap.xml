@@ -7699,6 +7699,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/tag/rooviewer.html</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/terms.html</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7814,12 +7820,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/restaurant-profile.html</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/tag/rooviewer.html</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -14347,6 +14347,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends.html</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms.html</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14360,12 +14366,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/restaurant-profiles.html</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends.html</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -15721,12 +15721,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/archive/2019/page/15.html</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.co.uk/archive/2018/page/2.html</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -16321,6 +16315,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/2.html</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/3.html</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/4.html</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/5.html</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/6.html</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/7.html</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/8.html</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/page/2.html</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -16718,48 +16754,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/restaurant-profiles/page/16.html</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/2.html</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/3.html</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/4.html</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/5.html</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/6.html</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/7.html</loc>
-    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/food-trends/page/8.html</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
