@@ -289,6 +289,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/deliveroo-tasty-thursday-competition-2021.html</loc>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/apple-pay.html</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
