@@ -1,4 +1,0 @@
-/* SITE */
-Standards: HTML5, CSS3
-Components: Javascript
-Software: Middleman, Babel, VSCode, Git
