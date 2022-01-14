@@ -1291,6 +1291,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.co.uk/terms/tasty-thursday-competition-terms-jan-2022.html</loc>
+    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/deliveroo-14-days-free-delivery-promotion-november-sprint.html</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13327,13 +13333,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/opinium.html</loc>
+    <loc>https://foodscene.deliveroo.co.uk/deliveroo.html</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.co.uk/opinium.html</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
