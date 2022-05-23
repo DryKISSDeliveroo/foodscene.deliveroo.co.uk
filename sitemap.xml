@@ -6835,12 +6835,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/tag/promotion.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.co.uk/tag/rooviewer.html</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13471,13 +13465,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.co.uk/terms.html</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/terms.html</loc>
+    <loc>https://foodscene.deliveroo.co.uk/promotions.html</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -15349,66 +15343,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/2.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/3.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/4.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/5.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/6.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/7.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/8.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/9.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/10.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.co.uk/promotions/page/11.html</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/page/2.html</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15566,6 +15500,66 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.co.uk/terms/page/28.html</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/2.html</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/3.html</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/4.html</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/5.html</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/6.html</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/7.html</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/8.html</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/9.html</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/10.html</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.co.uk/promotions/page/11.html</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
